@@ -75,18 +75,18 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
       </a>
     </td>
      <td align="center">
-      <a href="link do github do participante">
-        <img src="link da imagem do github do participante" width="100px;"/><br>
+      <a href="https://github.com/Thiellyguedes">
+        <img src="https://avatars.githubusercontent.com/u/145229493?v=4" width="100px;"/><br>
         <sub>
-          <b>Nome do participante</b>
+          <b>Thielly Guedes</b>
         </sub>
       </a>
     </td>
      <td align="center">
-      <a href="link do github do participante">
-        <img src="link da imagem do github do participante" width="100px;"/><br>
+      <a href="https://github.com/Ruangafn">
+        <img src="https://avatars.githubusercontent.com/u/144804273?v=4" width="100px;"/><br>
         <sub>
-          <b>Nome do participante</b>
+          <b>Ruan Gabriel</b>
         </sub>
       </a>
     </td>
